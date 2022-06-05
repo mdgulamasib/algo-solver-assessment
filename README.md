@@ -22,3 +22,7 @@ By following the task description's instructions I have create a simple full res
 - TailwindCSS
 - DaisyUI
 - React slick
+
+### Video Link: https://drive.google.com/file/d/1MSWuk-nedeuqjAdpM-Ko7FPo7a-DQeyA/view?usp=sharing
+
+# Thank You!
